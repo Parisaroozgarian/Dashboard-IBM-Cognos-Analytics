@@ -34,4 +34,7 @@ This project involves creating dashboards using IBM Cognos Analytics to visualiz
 - **Demographics Dataset**: [m5_survey_data_demographics.csv](link_to_your_csv)
 - **Technologies Dataset**: [m5_survey_data_technologies_normalised.csv](link_to_your_csv)
 
+## 🔗 Links to Dashboard PDFs
+- [Current Technology Usage Dashboard](https://github.com/Parisaroozgarian/Dashboard-IBM-Cognos-Analytics/blob/main/Dashboard%20IBM%20Cognos%20lab/_%20m5_survey_data_technologies_normalised.pdf)
+- [Demographics Dashboard](https://github.com/Parisaroozgarian/Dashboard-IBM-Cognos-Analytics/blob/main/Dashboard%20IBM%20Cognos%20lab/m5_survey_data_demographics.pdf)
 
